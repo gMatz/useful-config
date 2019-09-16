@@ -1,0 +1,5 @@
+Generate a SSH key on your computer as described here : Generating SSH keys.
+Login your GitHub account: GitHub Login.
+In your account, add the newly generated SSH Key: My account SSH keys.
+Try again to git clone the project.
+
